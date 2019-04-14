@@ -1,4 +1,4 @@
-package step3
+package main
 
 import (
 	"github.com/miaomiao3/log"
